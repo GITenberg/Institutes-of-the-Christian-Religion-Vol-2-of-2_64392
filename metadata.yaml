@@ -1,0 +1,35 @@
+_repo: Institutes-of-the-Christian-Religion-Vol-2-of-2_64392
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Allen, John
+    birthdate: 1771
+    deathdate: 1839
+    gutenberg_agent_id: '47365'
+    url: http://www.gutenberg.org/2009/agents/47365
+    wikipedia: https://en.wikipedia.org/wiki/John_Allen_(religious_writer)
+creator:
+  author:
+    agent_name: Calvin, Jean
+    alias: Calvin, John
+    birthdate: 1509
+    deathdate: 1564
+    gutenberg_agent_id: '6425'
+    url: http://www.gutenberg.org/2009/agents/6425
+    wikipedia: https://en.wikipedia.org/wiki/John_Calvin
+description: ''
+gutenberg_issued: '2021-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reformed Church -- Doctrines -- Early works to 1800'
+- !lcc 'BX'
+- !lcsh 'Theology, Doctrinal -- Early works to 1800'
+- GITenberg
+title: Institutes of the Christian Religion (Vol. 2 of 2)
+url: http://www.gutenberg.org/ebooks/64392
